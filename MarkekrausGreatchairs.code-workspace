@@ -1,0 +1,20 @@
+{
+    // created by vscode papyrus-lang papyrus.skyrimSpecialEdition.generateProject
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "papyrus.skyrimSpecialEdition.enabled": true,
+        "papyrus.fallout4.enabled": false,
+        "papyrus.skyrim.enabled": false,
+        "cSpell.words": [
+          "Chairhammers",
+          "Chairrows",
+          "Greatchair",
+          "Greatchairs",
+          "greatsword"
+        ]
+    }
+}

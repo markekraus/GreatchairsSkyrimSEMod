@@ -1,0 +1,14 @@
+{
+  "$schema": "http://mekschemas.netlify.app/modpackager/v2/",
+  "UnfuzerPath": "..\\..\\Game Root\\Tools\\unfuzer",
+  "ModInfo": {
+    "Name": "Greatchairs (Chair Greatswords)",
+    "Version": "1.0.0",
+    "Author": "Mark E. Kraus",
+    "Description": "Adds Greatchairs (Chair Greatswords) to Skyrim.",
+    "Website": "{NEWURL}",
+    "Category": "Weapons",
+    "Logo": "logo.png"
+  },
+  "Plugin": "MarkekrausGreatchairs.esp"
+}

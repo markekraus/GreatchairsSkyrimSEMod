@@ -1,0 +1,10 @@
+<fomod>
+    <Name>Greatchairs (Chair Greatswords)</Name>
+    <Author>Mark E. Kraus</Author>
+    <Version>1.0.0</Version>
+    <Website>{NEWURL}</Website>
+    <Description>Adds Greatchairs (Chair Greatswords) to Skyrim.</Description>
+    <Groups>
+        <element>Weapons</element>
+    </Groups>
+</fomod>
